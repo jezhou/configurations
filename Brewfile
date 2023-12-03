@@ -26,6 +26,7 @@ cask 'postman'               # API testing tool
 cask 'docker'                # Containerization platform
 cask 'figma'                 # Design collaboration tool
 cask 'wechat'                # WeChat
+cask 'karabiner-elements'    # Karabiner Elements - keyboarrd remapper
 
 # Feel free to add or remove any other applications as needed
 
