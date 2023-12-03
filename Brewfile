@@ -28,6 +28,7 @@ cask 'figma'                 # Design collaboration tool
 cask 'wechat'                # WeChat
 cask 'karabiner-elements'    # Karabiner Elements - keyboarrd remapper
 cask 'logi-options-plus'     # Logitech options software for peripherals
+cask 'todoist'               # Todo list
 
 # Feel free to add or remove any other applications as needed
 
