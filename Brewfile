@@ -17,7 +17,7 @@ cask 'spectacle'
 # Additional Applications
 cask 'google-chrome'         # Web browser
 cask 'slack'                 # Communication tool
-cask 'zoomus'                # Video conferencing
+cask 'zoom'                # Video conferencing
 cask 'microsoft-office'      # Office suite (Word, Excel, PowerPoint)
 cask 'alfred'                # Productivity booster
 cask '1password'             # Password manager
