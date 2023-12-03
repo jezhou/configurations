@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp karabiner.json ~/.config/karabiner.json
+cp karabiner.json ~/.config/karabiner/karabiner.json
 
 echo "Done!"
