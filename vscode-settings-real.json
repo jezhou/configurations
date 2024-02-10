@@ -1,0 +1,110 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "editor.formatOnPaste": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "eslint.packageManager": "yarn",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescriptreact"
+  ],
+  "workbench.startupEditor": "newUntitledFile",
+  "files.autoSave": "onFocusChange",
+  "eslint.options": {
+    "overrideConfig": {
+      "rules": {
+        "no-debugger": "off"
+      }
+    }
+  },
+  "ruby.lint": {
+    "rubocop": true
+  },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "emmet.showExpandedAbbreviation": "never",
+  "editor.tabSize": 2,
+  "npm.packageManager": "yarn",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.codeCompletion": "rcodetools",
+  "vim.cursorStylePerMode.insert": "line-thin",
+  "vim.cursorStylePerMode.normal": "block",
+  "vim.cursorStylePerMode.replace": "underline",
+  "vim.foldfix": true,
+  "typescript.suggestionActions.enabled": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.renderWhitespace": "none",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnSave": true,
+  "workbench.statusBar.visible": true,
+  "javascript.validate.enable": false,
+  "liveshare.featureSet": "insiders",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.colorTheme": "Dracula",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "keyboard.touchbar.enabled": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.tsserver.log": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "auto-rename-tag.activationOnLanguage": [
+    "javascriptreact",
+    "typescriptreact"
+  ],
+  "csharp.suppressDotnetInstallWarning": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "ruby.specCommand": "bin/rspec",
+  "vim.useSystemClipboard": true,
+  "ruby.specSaveFile": true,
+  "solargraph.formatting": true,
+  "solargraph.autoformat": true,
+  "standard.enable": true,
+  "standard.autoFixOnSave": true,
+  "gitlens.codeLens.enabled": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.configPath": "./.prettierrc.json",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "githubPullRequests.pullBranch": "never",
+  "jestrunner.jestCommand": "DISABLE_LOGGING_IN_TESTS=true yarn test:watch",
+  "jestrunner.preserveEditorFocus": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "codestream.serverUrl": "https://codestream-us1.service.newrelic.com",
+  "security.workspace.trust.untrustedFiles": "open",
+  "security.promptForLocalFileProtocolHandling": false,
+  "window.zoomLevel": 1
+}
